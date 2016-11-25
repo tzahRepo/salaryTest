@@ -2,4 +2,5 @@
 
 
 #Runnig the code
-php index.php
+<pre>php index.php
+</pre>
